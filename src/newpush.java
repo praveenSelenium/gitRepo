@@ -6,6 +6,6 @@ public class newpush {
 
         System.out.println("pushing new code");
         
-        System.out.println("pukk code new code");
+        System.out.println("pull code new code");
     }
 }
